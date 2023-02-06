@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/CodeWithBears/static/css/main.073c9b0a.css",
-    "main.js": "/CodeWithBears/static/js/main.57a710ab.js",
-    "static/js/787.361ad5cf.chunk.js": "/CodeWithBears/static/js/787.361ad5cf.chunk.js",
-    "static/media/logo.svg": "/CodeWithBears/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/CodeWithBears/index.html",
-    "main.073c9b0a.css.map": "/CodeWithBears/static/css/main.073c9b0a.css.map",
-    "main.57a710ab.js.map": "/CodeWithBears/static/js/main.57a710ab.js.map",
-    "787.361ad5cf.chunk.js.map": "/CodeWithBears/static/js/787.361ad5cf.chunk.js.map"
+    "main.css": "/codewithbears.lol/static/css/main.073c9b0a.css",
+    "main.js": "/codewithbears.lol/static/js/main.5c3578f6.js",
+    "static/js/787.361ad5cf.chunk.js": "/codewithbears.lol/static/js/787.361ad5cf.chunk.js",
+    "static/media/logo.svg": "/codewithbears.lol/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/codewithbears.lol/index.html",
+    "main.073c9b0a.css.map": "/codewithbears.lol/static/css/main.073c9b0a.css.map",
+    "main.5c3578f6.js.map": "/codewithbears.lol/static/js/main.5c3578f6.js.map",
+    "787.361ad5cf.chunk.js.map": "/codewithbears.lol/static/js/787.361ad5cf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.57a710ab.js"
+    "static/js/main.5c3578f6.js"
   ]
 }
